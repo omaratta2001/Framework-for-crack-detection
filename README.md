@@ -64,6 +64,3 @@ The loss metric indicates how well the model is learning during training. It rep
 
 
 The loss chart will provide insights about how well the model is learning and if there are signs of overfitting or underfitting. These insights will ultimately guide further improvements in the model.
-# Framework-for-crack-detection
-# Framework-for-crack-detection
-# Framework-for-crack-detection
